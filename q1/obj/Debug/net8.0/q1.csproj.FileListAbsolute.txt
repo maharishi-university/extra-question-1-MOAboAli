@@ -1,0 +1,15 @@
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.AssemblyInfoInputs.cache
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.AssemblyInfo.cs
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.csproj.CoreCompileInputs.cache
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.sourcelink.json
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\bin\Debug\net8.0\q1.exe
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\bin\Debug\net8.0\q1.deps.json
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\bin\Debug\net8.0\q1.runtimeconfig.json
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\bin\Debug\net8.0\q1.dll
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\bin\Debug\net8.0\q1.pdb
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.dll
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\refint\q1.dll
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.pdb
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\q1.genruntimeconfig.cache
+D:\education\MIU\OnCampus\Courses\CloudComputing\ExtraQuestion\Q1\extra-question-1-MOAboAli\q1\obj\Debug\net8.0\ref\q1.dll
